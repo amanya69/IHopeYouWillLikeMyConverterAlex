@@ -1,0 +1,5 @@
+Django==2.2.1
+python-decouple==3.1
+pytz==2019.1
+sqlparse==0.3.0
+youtube-dl==2019.5.20
